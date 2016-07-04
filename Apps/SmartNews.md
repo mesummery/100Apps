@@ -9,7 +9,7 @@
 ### UI / UX  
 * チュートリアルでは横スワイプではなく、ボタンタップでページング
 * 一覧画面での[めくれる演出](#smartnews_top)
-* クレジットとして、使用ライブラリの表示画面がある(#smartnews_credit)
+* クレジットとして、[使用ライブラリの表示画面](#smartnews_credit)がある
 
 #### <a name="smartnews_top">めくれる演出</a>
 UIPageViewController使用？   
