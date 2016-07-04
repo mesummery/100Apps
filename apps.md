@@ -14,13 +14,10 @@
 
 ### UI / UX  
 
-![Nike+ Training Club](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif)
-
-> チュートリアル動画？　アコーディオン動画？分割するかも
 
 * チュートリアルはおなじみベージング
 * メインとなるワークアウト一覧はTableView利用？
-* アコーディオン表示のみで動画を再生できるので、操作の手数が少なくてよい
+* [アコーディオン表示のみで動画を再生できる](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif)ので、操作の手数が少なくてよい
 
 
 ## TED
@@ -47,8 +44,8 @@
 
 ## UI / UX
 
-> やたらうごく動画
+![ZanQy](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_1.gif)
 
-* チュートリアルはページングだが、+aの動きがあるので、スワイプしていて気持ち良い
-* シンプルな目的のシンプルなアプリだが、やたら動いて気持ち良い
-
+* チュートリアルはページングだが、[+aの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_4.gif)があるので、スワイプしていて気持ち良い
+* シンプルな目的のシンプルなアプリだが、[やたら動いて気持ち良い](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_2.gif)
+* CollectionView＋カード風のUIはよくありそうだけど、[これは本当にカードめくりの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif)をしている
