@@ -8,19 +8,19 @@
 
 ### UI / UX
 * [オフラインだと何もみえないようだ](#locari_error)
-* [NavigationBack用のボタンが2こついている](#locari_back)ので、閉じやすい？のか？
+* [NavigationBack用のボタンが2こついている](#locari_navButton)ので、閉じやすい？のか？
 * 女子が好きそうな[パララックス](#locari_parallax)
 
 #### <a name="locari_error">起動時オフライン</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_error.jpg" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_error.jpg" width="320px">
 
 
-#### <a name="locari_back">いろんなPOP方法</a>
+#### <a name="locari_navButton">いろんなPOP方法</a>
 ⚠️：1回めヘッダー左のNavigationBackボタン、2回めが右の×ボタン
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_2.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_navButton.gif" width="320px">
 
 
 #### <a name="locari_parallax">パララックス</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_1.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_parallax.gif" width="320px">
 
