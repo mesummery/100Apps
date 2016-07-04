@@ -18,7 +18,7 @@
 * エラーでダイアログが出ても、[注目のワークアウトは表示](#ntc_error)されている（**しかも更新されているっぽい**）
 
 #### <a name="ntc_accordion">アコーディオン + 動画</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_accordion.gif" width="320px">
 
 #### <a name="ntc_error">起動時オフラインでもコンテンツの表示はあり</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining_error.jpg" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_error.jpg" width="320px">
