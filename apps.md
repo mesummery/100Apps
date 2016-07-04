@@ -96,7 +96,7 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_1.gif" width="320px">
 
 
-## くら寿司
+## 🍣 くら寿司
 ---
 
 **EDIT : 2016.07.04**
