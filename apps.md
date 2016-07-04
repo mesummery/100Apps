@@ -13,8 +13,6 @@
 * メッセージが閲覧できる
 
 ### UI / UX  
-
-
 * チュートリアルはおなじみベージング
 * メインとなるワークアウト一覧はTableView利用？
 * [アコーディオン](#ntc_accordion)表示で動画の再生が開始されるので、操作の手数が少なくて済む
@@ -35,7 +33,7 @@
 ### UI / UX  
 * 起動時のチュートリアルなどは特になし
 * 一覧 > 詳細 > 動画再生画面の王道フローかつシンプルな構成でわかりやすい
-* タブ構成だが、どのタブから遷移しても終着地は動画再生画面（アプリの目的に沿った画面フロー）
+* タブ構成だが、**どのタブから遷移しても終着地は動画再生画面**（アプリの目的に沿った画面フロー）
 
 
 ## ZanQy
@@ -46,9 +44,7 @@
 ### Purpose
 * 衣類の枚数をカウントする（インナーファッションカウンター）
 
-## UI / UX
-
-
+### UI / UX
 * チュートリアルはページングだが、+aの動きがあり[スワイプしていて気持ち良い](#zq_tutorial)
 * シンプルな目的のシンプルなアプリだが、[やたら動いて気持ち良い](#zq_animation)
 * CollectionView＋カード風のUIはよくありそうだけど、これは本当に[カードめくりの動き](#zq_card)
@@ -65,4 +61,29 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif" width="320px">
 
 
-## App
+## Locaro
+**EDIT : 2016.07.04**
+* OS 9.2.1 / App 4.1.9
+* iPhone6
+
+### Purpose
+* 女性向けキュレーション
+
+### UI / UX
+* [オフラインだと何もみえないようだ](#locari_error)
+* [NavigationBack用のボタンが2こついている](#locari_back)ので、閉じやすい？のか？
+* 女子が好きそうな[パララックス](#locari_parallax)
+
+#### <a name="locari_error">起動時オフライン</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_error.jpg" width="320px">
+
+
+#### <a name="locari_back">いろんなPOP方法</a>
+⚠️：1回めヘッダー左のNavigationBackボタン、2回めが右の×ボタン
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_2.gif" width="320px">
+
+
+#### <a name="locari_parallax">パララックス</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_1.gif" width="320px">
+
