@@ -11,7 +11,7 @@
 * 目的自体はシンプルなアプリだが、[やたら動いて気持ち良い](#zq_animation)
 * CollectionView＋カード風のUIはよくありそうだけど、これは本当に[カードめくりの動き](#zq_card)
 * オフラインだとメッセージが[トースト表示](#zq_error)されてコンテンツの表示はなし
-* Viewのサイズをぬるぬるするアニメーションが多い気がする
+* Viewのサイズを__ぬるぬる__変える演出のアニメーションが多い気がする
 
 #### <a name="zq_tutorial">スワイプが楽しいチュートリアル</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/zq_tutorial.gif" width="320px">
