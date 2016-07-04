@@ -1,8 +1,6 @@
-## 👟 Nike+ Training Club
----
+# 👟 Nike+ Training Club
 
 ⚠️TODO ：実際にワークアウトしながら使ってみてUXを体感してみる
-
 
 * OS 9.2.1 / App 5.0.2
 * iPhone6
