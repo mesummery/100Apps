@@ -21,18 +21,21 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 ## Format
 
 ```
-## App Name
+# 😊 App Name
 
-* OS 9.2.1 / App 1.0
+* OS 9.2.1 / App 5.0.2
 * iPhone6
 
 ### Purpose
-* ---
+---
 
-### UI / UX
-* [LINK](#name)
+### UI / UX  
+* [Link](#name)
 
-#### <a name="name"> --- </a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/XXXX.gif" width="320px">
+#### <a name="name">Link</a>
+---  
+---
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/name.gif" width="320px">
 
 ```
