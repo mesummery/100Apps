@@ -17,9 +17,9 @@
 
 * チュートリアルはおなじみベージング
 * メインとなるワークアウト一覧はTableView利用？
-* [アコーディオン](#1)表示で動画の再生が開始されるので、操作の手数が少なくて済む
+* [アコーディオン](#ntc_accordion)表示で動画の再生が開始されるので、操作の手数が少なくて済む
 
-#### <a name="1">アコーディオン + 動画</a>
+#### <a name="ntc_accordion">アコーディオン + 動画</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif" width="320px">
 
 
@@ -47,8 +47,16 @@
 
 ## UI / UX
 
-![ZanQy](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_1.gif)
 
-* チュートリアルはページングだが、[+aの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_4.gif)があるので、スワイプしていて気持ち良い
-* シンプルな目的のシンプルなアプリだが、[やたら動いて気持ち良い](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_2.gif)
-* CollectionView＋カード風のUIはよくありそうだけど、[これは本当にカードめくりの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif)をしている
+* チュートリアルはページングだが、+aの動きがあり[スワイプしていて気持ち良い](#zq_tutorial)
+* シンプルな目的のシンプルなアプリだが、[やたら動いて気持ち良い](#zq_animation)
+* CollectionView＋カード風のUIはよくありそうだけど、これは本当に[カードめくりの動き](#zq_card)
+
+#### <a name="zq_tutorial">スワイプが楽しいチュートリアル</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_4.gif" width="320px">
+
+#### <a name="zq_animation">やたら動く</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_2.gif" width="320px">
+
+#### <a name="zq_card">カードめくり演出</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif" width="320px">
