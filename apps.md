@@ -45,9 +45,7 @@
 ## UI / UX
 
 ![ZanQy](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_1.gif)
-![ZanQy](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_2.gif)
-![ZanQy](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif)
 
-* チュートリアルはページングだが、+aの動きがあるので、スワイプしていて気持ち良い
-* シンプルな目的のシンプルなアプリだが、やたら動いて気持ち良い
-
+* チュートリアルはページングだが、[+aの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_4.gif)があるので、スワイプしていて気持ち良い
+* シンプルな目的のシンプルなアプリだが、[やたら動いて気持ち良い](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_2.gif)
+* CollectionView＋カード風のUIはよくありそうだけど、[これは本当にカードめくりの動き](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif)をしている
