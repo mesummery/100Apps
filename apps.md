@@ -1,43 +1,5 @@
-
-## 👟 Nike+ Training Club
----
-
-⚠️TODO ：実際にワークアウトしながら使ってみてUXを体感してみる
-
-**EDIT : 2016.07.04**
-* OS 9.2.1 / App 5.0.2
-* iPhone6
-
-### Purpose
-ユーザーのトレーニングをサポート
-* ワークアウトの動画をみられる
-* イベントに参加できる
-* メッセージが閲覧できる
-
-### UI / UX  
-* チュートリアルはおなじみベージング
-* メインとなるワークアウト一覧はTableView利用？
-* [アコーディオン](#ntc_accordion)表示で動画の再生が開始されるので、操作の手数が少なくて済む
-
-#### <a name="ntc_accordion">アコーディオン + 動画</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif" width="320px">
-
-
-
-## 🎬 TED
----
-
-**EDIT : 2016.07.04**
-* OS 9.2.1 / App 5.0.2
-* iPhone6
-
-### Purpose
-* TEDのトーク動画を閲覧
-
-### UI / UX  
-* 起動時のチュートリアルなどは特になし
-* **一覧 > 詳細 > 動画再生画面の王道フロー**かつシンプルな構成でわかりやすい
-* タブ構成だが、**どのタブから遷移しても終着地は動画再生画面**（アプリの目的に沿った画面フロー）
+#### 👟 [Nike+ Training Club](https://github.com/mafmoff/100Apps/blob/master/apps/Nike%2B%20Training%20Club.md)
+#### 🎬 [TED](https://github.com/mafmoff/100Apps/blob/master/apps/TED.md)
 
 
 ## 👕 ZanQy
