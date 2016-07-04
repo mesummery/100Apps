@@ -67,7 +67,7 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif" width="320px">
 
 
-## 💄 Locaro
+## 💄 Locari
 ---
 
 **EDIT : 2016.07.04**
@@ -95,3 +95,20 @@
 #### <a name="locari_parallax">パララックス</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Locari_1.gif" width="320px">
 
+
+## くら寿司
+---
+
+**EDIT : 2016.07.04**
+* OS 9.2.1 / App 2.0.7
+* iPhone6
+
+### Purpose
+* 店舗の予約
+
+### UI / UX
+* ものすごくWebViewっぽい
+* [ライセンス画面](#kura_license)がある（設定アプリに表示させない理由がきになる！）
+
+#### <a name="kura_license">ちゃんとライセンス画面がある</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Kura_1.jpg" width="320px">
