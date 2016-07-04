@@ -1,6 +1,5 @@
 # 💄 Locari
 
-**EDIT : 2016.07.04**
 * OS 9.2.1 / App 4.1.9
 * iPhone6
 
