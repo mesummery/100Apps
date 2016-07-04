@@ -1,5 +1,5 @@
 
-## Nike+ Training Club
+## 👟 Nike+ Training Club
 ⚠️TODO ：実際にワークアウトしながら使ってみてUXを体感してみる
 
 **EDIT : 2016.07.04**
@@ -22,7 +22,7 @@
 
 
 
-## TED
+## 🎬 TED
 **EDIT : 2016.07.04**
 * OS 9.2.1 / App 5.0.2
 * iPhone6
@@ -36,7 +36,7 @@
 * タブ構成だが、**どのタブから遷移しても終着地は動画再生画面**（アプリの目的に沿った画面フロー）
 
 
-## ZanQy
+## 👕 ZanQy
 **EDIT : 2016.07.04**
 * OS 9.2.1 / App 1.0
 * iPhone6
@@ -61,7 +61,7 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ZanQy_3.gif" width="320px">
 
 
-## Locaro
+## 💄 Locaro
 **EDIT : 2016.07.04**
 * OS 9.2.1 / App 4.1.9
 * iPhone6
