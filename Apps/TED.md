@@ -8,9 +8,14 @@
 
 ### UI / UX  
 * 起動時のチュートリアルなどは特になし
-* **一覧 > 詳細 > 動画再生画面の王道フロー**かつシンプルな構成でわかりやすい
-* タブ構成だが、[どのタブから遷移しても**終着地は動画再生画面**](#ted_main)（アプリの目的に沿った画面フロー）
+* **一覧 > 詳細 > 動画再生**の王道フロー、シンプルな構成でわかりやすい
+* タブ構成だが、[どのタブから遷移しても**終着地は動画再生画面**](#ted_nav)（アプリの目的に沿った画面フロー）
 * オフラインでもコンテンツの一覧表示はあるが、動画の再生が行われない
+* TED配信の動画は表示が[リッチなパララックス]()でボタンとして画面上部に固定になるような動きがある
 
-#### <a name="ted_main">終点は動画再生</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/TED.gif" width="320px">
+#### <a name="ted_nav">終点は動画再生</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ted_nav.gif" width="320px">
+
+
+#### <a name="ted_ted_richParallax">ボタンとして固定</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ted_richParallax.gif" width="320px">
