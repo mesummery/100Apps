@@ -17,7 +17,9 @@
 
 * チュートリアルはおなじみベージング
 * メインとなるワークアウト一覧はTableView利用？
-* [アコーディオン表示のみで動画を再生できる](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif)ので、操作の手数が少なくてよい
+* [アコーディオン](#1)表示で動画の再生が開始されるので、操作の手数が少なくて済む
+
+<a name="1"><img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif" width="320px">
 
 
 ## TED
