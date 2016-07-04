@@ -13,6 +13,10 @@
 * メッセージが閲覧できる
 
 ### UI / UX  
+
+![Nike+ Training Club](https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Nike%2BTraining.gif)
+
+
 * チュートリアルはおなじみベージング
 * メインとなるワークアウト一覧はTableView利用？
 * アコーディオン表示のみで動画を再生できるので、操作の手数が少なくてよい
