@@ -27,5 +27,6 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_parallax.gif" width="320px">
 
 #### <a name="locari_error">起動時のオフライン</a>
+意外と無骨
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_error.jpg" width="320px">
