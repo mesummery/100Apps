@@ -12,13 +12,18 @@
 * メッセージが閲覧できる
 
 ### UI / UX  
-* チュートリアルはおなじみベージング
-* メインとなるワークアウト一覧はTableView利用？
-* [アコーディオン](#ntc_accordion)表示で動画の再生が開始されるので、操作の手数が少なくて済む
-* エラーでダイアログが出ても、[注目のワークアウトは表示](#ntc_error)されている（**しかも更新されているっぽい**）
+* チュートリアルは馴染みのあるベージング
+* ワークアウト一覧はTableView利用と思われる
+* [アコーディオン](#ntc_accordion)表示で動画の再生が開始
+* エラーでダイアログが出ても、[注目のワークアウトは表示](#ntc_error)されている
 
 #### <a name="ntc_accordion">アコーディオン + 動画</a>
+再生画面への遷移を行わないので、操作の手数が少なくて済む  
+ワークアウトを行いながらの操作が考慮されている
+
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_accordion.gif" width="320px">
 
 #### <a name="ntc_error">起動時オフラインでもコンテンツの表示はあり</a>
+**しかも更新されているっぽい**（Background Fetch？）
+
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_error.jpg" width="320px">
