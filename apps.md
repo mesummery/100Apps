@@ -107,7 +107,7 @@
 * 店舗の予約
 
 ### UI / UX
-* ものすごくWebViewっぽい
+* ものすごくWebViewっぽい（オフラインでも表示されるので、HTML読み込んでいる？）
 * [ライセンス画面](#kura_license)がある（設定アプリに表示させない理由がきになる！）
 
 #### <a name="kura_license">ちゃんとライセンス画面がある</a>
@@ -128,9 +128,11 @@
 ### UI / UX
 * [タブバーやナビゲーションバーがない](#gunosy_top)、動線がシンプル
 * 詳細画面の[ナビゲーションバックボタンが**左下**についている](#gunosy_navigationBack)
+* オフライン時は[エラーダイアログが表示されていて一覧は表示されない](#gunosy_error)
 
 #### <a name="gunosy_top">ナビゲーションボタンが左下！</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Gunosy_1.jpg" width="320px">
 
-#### <a name="gunosy_navigationBack">ナビゲーションボタンの位置</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Gunosy_1.gif" width="320px">
+
+#### <a name="gunosy_error">オフライン</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Gunosy_2.jpg" width="320px">
