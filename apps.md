@@ -112,3 +112,25 @@
 
 #### <a name="kura_license">ちゃんとライセンス画面がある</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Kura_1.jpg" width="320px">
+
+
+
+## グノシー
+---
+
+**EDIT : 2016.07.04**
+* OS 9.2.1 / App 4.3.30
+* iPhone6
+
+### Purpose
+* ニュース閲覧
+
+### UI / UX
+* [タブバーやナビゲーションバーがなく](#gunosy_top)、動線がシンプル
+* 詳細画面の[ナビゲーションバックボタンが左下についている](#gunosy_navigationBack)
+
+#### <a name="gunosy_top">ナビゲーションボタンが左下！</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Gunosy_1.jpg" width="320px">
+
+#### <a name="gunosy_navigationBack">ナビゲーションボタンの位置</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/Gunosy_1.gif" width="320px">
