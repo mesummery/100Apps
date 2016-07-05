@@ -23,8 +23,6 @@
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/amazon_safari.jpg" width="320px">
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/amazon_transition.gif" width="320px">
-
 #### :triangular_flag_on_post: <a name="amazon_setting">設定メニューのドロワー</a>
 活きがいい
 
@@ -40,6 +38,8 @@
 #### :triangular_flag_on_post: <a name="amazon_transition">リンクナビゲーション時にPush遷移</a>
 WebView内のページ遷移時にネイティブ側で別ViewControllerを生成して画面遷移を行っているようです   
 :tada: TIPS: サインインや注文の確定など、前に戻るべきではない画面は、Modalを使用している
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/amazon_transition.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="amazon_offline">オフライン表示</a>
 カートの中身も0件になっていました
