@@ -12,7 +12,7 @@
 * [オフライン](#locari_error)時では、コンテンツの表示はなし
 
 
-#### <a name="locari_navButton">画面を閉じるためのボタン</a>
+#### :triangular_flag_on_post: <a name="locari_navButton">画面を閉じるためのボタン</a>
 ヘッダー左のくの字ボタンは、単純なPOPによるNavigationBack（前の画面にもどる）  
 ヘッダー右の×ボタンでは、PopToRoot（最初の画面にもどる）  
 
@@ -21,12 +21,12 @@
 ⚠️：1回めヘッダー左のNavigationBackボタン、2回めが右の×ボタン   
 
 
-#### <a name="locari_parallax">パララックス</a>
+#### :triangular_flag_on_post: <a name="locari_parallax">パララックス</a>
 女子は動きがあるUIが好きな気がする
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_parallax.gif" width="320px">
 
-#### <a name="locari_error">起動時のオフライン</a>
+#### :triangular_flag_on_post: <a name="locari_error">起動時のオフライン</a>
 意外と無骨
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_error.jpg" width="320px">
