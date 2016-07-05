@@ -11,7 +11,7 @@
 * [WebView利用らしいが、アプリに最適化されている](#amazon_web)
 * [WebViewのリンクナビゲーション時にPush遷移を行っている](#amazon_transition)
 * [設定メニュー系はドロワー](#amazon_setting)
-* [アニメーションで操作方法を表示](#anmazon_animation)
+* [アニメーションで操作方法を表示](#amazon_animation)
 * [オフライン表示](#amazon_offline)
 
 #### :triangular_flag_on_post: <a name="amazon_web">アプリに最適化されたWebページ</a>
@@ -34,11 +34,11 @@ WebView内のページ遷移時にネイティブ側で別ViewControllerを生�
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/amazon_setting.gif" width="320px">
 
-#### :triangular_flag_on_post: <a name="anmazon_animation">アニメーションで操作方法を表示</a>
+#### :triangular_flag_on_post: <a name="amazon_animation">アニメーションで操作方法を表示</a>
 チュートリアル画面自体は存在しませんが、こういった演出がアプリ操作方法の説明になっていました   
 チラ見せ加減も、ユーザーの興味を引くのだと思いました
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/anmazon_animation.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/amazon_animation.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="amazon_offline">オフライン表示</a>
 カートの中身も0件になっていました
