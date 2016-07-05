@@ -12,9 +12,6 @@
 * [スクロールの方向によって、上下タブが隠れる](#yahoonews_scroll)
 * [設定画面は白背景](#yahoonews_setting)
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoonews_paging.gif" width="320px">
-
-
 #### :triangular_flag_on_post: <a name="yahoonews_scroll">スクロールで上下タブが隠れる</a>
 ニュース一覧の表示面積を確保するためと思われます
 
