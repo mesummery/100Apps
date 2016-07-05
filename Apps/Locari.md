@@ -22,7 +22,7 @@
 
 
 #### :triangular_flag_on_post: <a name="locari_parallax">パララックス</a>
-女子は動きがあるUIが好きな気がする
+女子は動きがあるUIが好きな気がします
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_parallax.gif" width="320px">
 
