@@ -12,7 +12,8 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :fries: [McDonald's](https://github.com/mafmoff/100Apps/blob/master/Apps/McDonald's.md)
 * :articulated_lorry: [Amazon](https://github.com/mafmoff/100Apps/blob/master/Apps/Amazon.md)
 * :newspaper: [Yahoo!ニュース](https://github.com/mafmoff/100Apps/blob/master/Apps/Yahoo!ニュース.md)
-
+* :turtle: [丸亀製麺](https://github.com/mafmoff/100Apps/blob/master/Apps/丸亀製麺.md)
+ 
 ## Rules
 
 * UI/UXを中心に見る
