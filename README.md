@@ -46,6 +46,6 @@ text
 text
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/name.gif" width="320px">
----
+
 
 ```
