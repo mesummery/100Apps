@@ -27,7 +27,9 @@ UIPageViewController使用？
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_tabs.gif" width="320px">
 
 #### <a name="smartnews_setting">設定画面</a>
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_setting.gif" width="320px">
+Grouped設定のUITableViewと思われます
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_setting.jpg" width="320px">
 
 #### <a name="smartnews_credit">使用ライブラリの表示画面</a>
 設定アプリ内ではなく、アプリ内に画面を作っていました
