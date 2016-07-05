@@ -8,12 +8,9 @@
 ※ 都道府県別のニュースに特化
 
 ### UI / UX  
-* [スワイプかセグメントボタンタップでページング](#yahoonews_paging)
+* スワイプかセグメントボタンタップでページング
 * [スクロールの方向によって、上下タブが隠れる](#yahoonews_scroll)
 * [設定画面は白背景](#yahoonews_setting)
-
-#### :triangular_flag_on_post: <a name="yahoonews_paging">ページング</a>
-ユーザーに馴染みのあるUIです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoonews_paging.gif" width="320px">
 
