@@ -33,15 +33,16 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * iPhone6
 
 ### Purpose
----
+xxx
 
 ### UI / UX  
 * [Link](#name)
 
 #### <a name="name">Link</a>
----  
----
+xxxx  
+xxxx
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/name.gif" width="320px">
+---
 
 ```
