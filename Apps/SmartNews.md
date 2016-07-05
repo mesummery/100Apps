@@ -8,10 +8,10 @@
 
 ### UI / UX  
 * チュートリアルでは横スワイプではなく、ボタンタップでページング
-* 一覧画面での[めくれる演出](#smartnews_top)
-* スクロールの方向によって、[上下タブが隠れる](#smartnews_tabs)
-* [設定画面](#smartnews_setting)はGrouped設定のUITableViewでシンプル
-* クレジットとして、[使用ライブラリの表示画面](#smartnews_credit)がある
+* [一覧画面でのめくれる演出](#smartnews_top)
+* [スクロールの方向によって、上下タブが隠れる](#smartnews_tabs)
+* [設定画面はGrouped設定のUITableViewでシンプル](#smartnews_setting)
+* [クレジットとして、使用ライブラリの表示画面がある](#smartnews_credit)
 * 起動時にオフラインでも、画像以外の文章コンテンツは閲覧できる
 
 #### :triangular_flag_on_post: <a name="smartnews_top">めくれる演出</a>
