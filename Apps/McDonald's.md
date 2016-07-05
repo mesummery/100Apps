@@ -27,13 +27,13 @@ UIPageControlの位置が特徴的だと思われました
 セルの高さにはいくつかパターンがあるようです   
 一覧のデザインとして整っていて見やすいです
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_cell.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_cell.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="mcd_web">WebViewページのアプリ最適化</a>
 ネイティブのヘッダーがあるためにページ内のヘッダーが非表示になっています   
 :tada: TIPS: 同じページをSafariでみたときにはヘッダーがついています  
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_web.gif" width="320px"><img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_safari.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_web.jpg" width="320px"><img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_safari.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="mcd_terms">利用規約がUISwitch</a>
 リスト中にアプリ規約を配置するUIは、あまり見たことがないと思われました
