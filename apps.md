@@ -1,6 +1,0 @@
-* 👟 [Nike+ Training Club](https://github.com/mafmoff/100Apps/blob/master/Apps/Nike%2B%20Training%20Club.md)
-* 🎬 [TED](https://github.com/mafmoff/100Apps/blob/master/Apps/TED.md)
-* 👕 [ZanQy](https://github.com/mafmoff/100Apps/blob/master/Apps/ZanQy.md)
-* 💄 [Locari](https://github.com/mafmoff/100Apps/blob/master/Apps/Locari.md)
-* 🍣 [くら寿司](https://github.com/mafmoff/100Apps/blob/master/Apps/くら寿司.md)
-* ✈️ [グノシー](https://github.com/mafmoff/100Apps/blob/master/Apps/グノシー.md)
