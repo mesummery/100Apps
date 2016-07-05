@@ -10,6 +10,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * ✈️ [グノシー](https://github.com/mafmoff/100Apps/blob/master/Apps/グノシー.md)
 * 📢 [SmartNews](https://github.com/mafmoff/100Apps/blob/master/Apps/SmartNews.md)
 * :fries: [McDonald's](https://github.com/mafmoff/100Apps/blob/master/Apps/McDonald's.md)
+* :articulated_lorry: [Amazon](https://github.com/mafmoff/100Apps/blob/master/Apps/Amazon.md)
 
 ## Rules
 
