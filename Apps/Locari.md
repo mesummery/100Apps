@@ -9,6 +9,7 @@
 ### UI / UX
 * 画面を閉じるための[ボタンが2こ](#locari_navButton)配置されている
 * [パララックス](#locari_parallax)演出があることで、一覧がリッチに見える
+* [設定画面](#locari_setting)はGroupedのTableViewらしい
 * [オフライン](#locari_error)時では、コンテンツの表示はなし
 
 
@@ -25,6 +26,10 @@
 女子は動きがあるUIが好きな気がします
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_parallax.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="locari_setting">設定画面</a>
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/locari_setting.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="locari_error">起動時のオフライン</a>
 意外と無骨
