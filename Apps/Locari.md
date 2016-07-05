@@ -7,10 +7,10 @@
 女性向けキュレーション
 
 ### UI / UX
-* 画面を閉じるための[ボタンが2こ](#locari_navButton)配置されている
-* [パララックス](#locari_parallax)演出があることで、一覧がリッチに見える
-* [設定画面](#locari_setting)はGroupedのTableViewらしい
-* [オフライン](#locari_error)時では、コンテンツの表示はなし
+* [画面を閉じるためのボタンが2こ配置されている](#locari_navButton)
+* [パララックス演出があることで、一覧がリッチに見える](#locari_parallax)
+* [設定画面はGroupedのTableViewらしい](#locari_setting)
+* [オフライン時では、コンテンツの表示はなし](#locari_error)
 
 
 #### :triangular_flag_on_post: <a name="locari_navButton">画面を閉じるためのボタン</a>
