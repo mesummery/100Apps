@@ -26,7 +26,7 @@ UIPageViewController使用？
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_tabs.gif" width="320px">
 
-#### :pushpin: <a name="smartnews_setting">設定画面</a>
+#### :triangular_flag_on_post: <a name="smartnews_setting">設定画面</a>
 Grouped設定のUITableViewと思われます
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_setting.jpg" width="320px">
