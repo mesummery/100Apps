@@ -14,9 +14,9 @@
 ### UI / UX  
 * チュートリアルは馴染みのあるベージング
 * ワークアウト一覧はTableView利用と思われる
-* [アコーディオン](#ntc_accordion)表示で動画の再生が開始
-* [設定画面](#ntc_setting)は、GrouptedタイプのUITableView
-* エラーでダイアログが出ても、[注目のワークアウトは表示](#ntc_error)されている
+* [アコーディオン表示で動画の再生が開始](#ntc_accordion)
+* [設定画面は、GrouptedタイプのUITableView](#ntc_setting)
+* [エラーでダイアログが出ても、注目のワークアウトは表示されている](#ntc_error)
 
 #### :triangular_flag_on_post: <a name="ntc_accordion">アコーディオン + 動画</a>
 再生画面への遷移を行わないので、操作の手数が少なくて済みそうです   
