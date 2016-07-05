@@ -17,13 +17,13 @@
 * [アコーディオン](#ntc_accordion)表示で動画の再生が開始
 * エラーでダイアログが出ても、[注目のワークアウトは表示](#ntc_error)されている
 
-#### <a name="ntc_accordion">アコーディオン + 動画</a>
-再生画面への遷移を行わないので、操作の手数が少なくて済む  
-ワークアウトを行いながらの操作が考慮されている
+#### :triangular_flag_on_post: <a name="ntc_accordion">アコーディオン + 動画</a>
+再生画面への遷移を行わないので、操作の手数が少なくて済みそうです   
+ワークアウトを行いながらの操作が考慮されているようです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_accordion.gif" width="320px">
 
-#### <a name="ntc_error">起動時オフラインでもコンテンツの表示はあり</a>
+#### :triangular_flag_on_post: <a name="ntc_error">起動時オフラインでもコンテンツの表示はあり</a>
 **しかも更新されているっぽい**（Background Fetch？）
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ntc_error.jpg" width="320px">
