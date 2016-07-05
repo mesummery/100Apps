@@ -23,6 +23,7 @@ UIPageViewController使用？
 
 #### <a name="smartnews_tabs">スクロールで上下タブが隠れる</a>
 一覧画面の表示領域をすこしでも多く見せるためのUIと思われました
+
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/smartnews_tabs.gif" width="320px">
 
 #### <a name="smartnews_setting">設定画面</a>
