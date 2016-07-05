@@ -11,6 +11,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * 📢 [SmartNews](https://github.com/mafmoff/100Apps/blob/master/Apps/SmartNews.md)
 * :fries: [McDonald's](https://github.com/mafmoff/100Apps/blob/master/Apps/McDonald's.md)
 * :articulated_lorry: [Amazon](https://github.com/mafmoff/100Apps/blob/master/Apps/Amazon.md)
+* :newspaper: [Yahoo!ニュース](https://github.com/mafmoff/100Apps/blob/master/Apps/Yahoo!ニュース.md)
 
 ## Rules
 
