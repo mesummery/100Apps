@@ -16,7 +16,7 @@ TEDのトーク動画を閲覧
 * オフラインでもコンテンツの一覧表示はあるが、動画の再生が行われない
 
 #### <a name="ted_nav">終点は動画再生</a>
-トーク動画を閲覧するというアプリのただ一つの目的にを達成するための画面フローと言える
+トーク動画を閲覧するというアプリのただ一つの目的を達成するための画面フローと言える
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/ted_nav.gif" width="320px">
 
