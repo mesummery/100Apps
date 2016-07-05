@@ -13,6 +13,7 @@
 * [ニュース一覧でのセルの高さが固定で見やすい](#mcd_cell)
 * [WebView内のページのヘッダーがアプリ用に最適化されている](#mcd_web)
 * [利用規約がUISwitch](#mcd_terms)
+* [タブ選択時の演出がかわいい](#mcd_tabs)
 
 #### :triangular_flag_on_post: <a name="mcd_tutorial">グラフィカルなチュートリアル</a>
 UIPageControlの位置が特徴的だと思われました  
@@ -36,3 +37,8 @@ UIPageControlの位置が特徴的だと思われました
 リスト中にアプリ規約を配置するUIは、あまり見たことがないと思われました
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_terms.jpg" width="320px">
+
+#### :triangular_flag_on_post: <a name="mcd_tabs">タブ選択時の演出</a>
+ポップな印象がブランドイメージにあっている気がしました   
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/mcd_tabs.gif" width="320px">
