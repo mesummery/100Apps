@@ -17,6 +17,8 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :egg: [クックパッド](https://github.com/mafmoff/100Apps/blob/master/Apps/クックパッド.md)
 * :dress: [ホットペッパービューティー](https://github.com/mafmoff/100Apps/blob/master/Apps/ホットペッパービューティー.md)
 * :headphones: [AWA](https://github.com/mafmoff/100Apps/blob/master/Apps/AWA.md)
+* :iphone: [ICONIT](https://github.com/mafmoff/100Apps/blob/master/Apps/ICONIT.md)
+* 
 
 ## Rules
 
@@ -24,6 +26,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * アプリの内容自体の良し悪しには触れない
 * ゲーム系アプリを除く
 * エラー時（オフライン時）の表示に興味あるかも
+* あんまりマイナスなことは書かない
 * 設定画面にも興味がある
 * ゆるく
 * 以下の項目を記載する
