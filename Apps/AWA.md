@@ -11,6 +11,7 @@
 * [「サービスを開始することで利用規約に同意したものとさせていただきます」](#awa_terms)
 * [PageControlのインジケータが左上に配置（でもスワイプ操作はわかる）](#awa_pageControl)
 * [スワイプ時とスクロール時のパララックスが気持ちいい](#awa_parallax)
+* [長押ししたらページ切り替えできました（**たまたま見つけた**）](#awa_page)
 * [ハンバーガーからも最上部スワイプからもメニューができる](#awa_menu)
 * [設定画面が凝っている](#awa_setting)
 * [オフライン表示](#awa_offline)
@@ -35,6 +36,11 @@
 ちょっとした演出がいちいち格好良く感じます
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_parallax.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="awa_page">長押しで直接ページ選択</a>
+たまたま見つかりました
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_page.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="awa_menu">メニュー表示</a>
 
