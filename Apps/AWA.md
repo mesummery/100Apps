@@ -16,6 +16,7 @@
 * [設定画面が凝っている](#awa_setting)
 * [オフライン表示](#awa_offline)
 * **全体的に使っていてテンションが上がる！かっこいい**
+* [使用ライブラリ](#awa_library)
 
 #### :triangular_flag_on_post: <a name="awa_start">START画面が動画</a>
 動いてるけど端末熱くならない  
@@ -56,3 +57,19 @@
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_offline.jpg" width="320px">
 
+#### :triangular_flag_on_post: <a name="awa_library">使用ライブラリ</a>
+設定アプリの*Licenses*より一部抜粋
+
+* [Crashlytics](https://try.crashlytics.com/)
+* [DeepLinkKit](https://github.com/button/DeepLinkKit)
+* [fmdb](https://github.com/ccgus/fmdb)
+* [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
+* [FBSDK](https://developers.facebook.com/docs/ios/)
+* [Fabric](https://get.fabric.io/)
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+* [Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX)
+* [Realm](https://realm.io/jp/)
+* [Shimmer](https://github.com/facebook/Shimmer)
+* [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore)
+* [libwebp](https://github.com/webmproject/libwebp)
+* [pop](https://github.com/facebook/pop)
