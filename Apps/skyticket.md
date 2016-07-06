@@ -22,7 +22,7 @@ WebView利用と思われます（Webページのヘッダーがそのまま表�
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/skyt_tabs.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="skyt_footer">アプリ最適化はされていない</a>
-フッターの黒いエリアがページのコンテンツに被ってしまっているのが気になりました   
+フッターの黒いエリアがページのコンテンツに被ってしまっているのが気になりました（**会社概要**の部分）   
 insetを設定した方がよいかもしれないと思われました
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/skyt_footer.jpg" width="320px">
