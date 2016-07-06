@@ -23,7 +23,7 @@
 
 
 #### :triangular_flag_on_post: <a name="iconit_submitButton">登録ボタンは最下部配置</a>
-入力後の登録ボタンはScrollView上に配置しない方が良いかもしれないと思われました
+入力後の登録ボタンはScrollView上に配置しない方が良いかもしれないと思われました   
 任意入力項目が画面下部にある場合、画面下部に常に固定（フローティング）されている方が押しやすいかもしれません
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iconit_submitButton.gif" width="320px">
