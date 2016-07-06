@@ -12,6 +12,7 @@
 * [PageControlのインジケータが左上に配置（でもスワイプ操作はわかる）](#awa_pageControl)
 * [スワイプ時とスクロール時のパララックスが気持ちいい](#awa_parallax)
 * [長押ししたらページ切り替えできました（**たまたま見つけた**）](#awa_page)
+* [アプリ全体で統一された画面遷移演出だが違和感がない](#awa_transiton)
 * [ハンバーガーからも最上部スワイプからもメニューができる](#awa_menu)
 * [設定画面が凝っている](#awa_setting)
 * [オフライン表示](#awa_offline)
@@ -42,6 +43,12 @@
 たまたま見つかりました
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_page.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="awa_transition">画面遷移</a>
+ImageViewのサイズが固定なので、どんなアスペクト比の画像が来ても、遷移時に違和感を感じないのかもしれないです
+Popで前の画面に移動した時も画像が元に位置に戻るアニメーションが付いていました
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_transition.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="awa_menu">メニュー表示</a>
 
