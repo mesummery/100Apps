@@ -15,6 +15,8 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :turtle: [丸亀製麺](https://github.com/mafmoff/100Apps/blob/master/Apps/丸亀製麺.md)
 * :sushi: [スシロー] (https://github.com/mafmoff/100Apps/blob/master/Apps/スシロー.md)
 * :egg: [クックパッド](https://github.com/mafmoff/100Apps/blob/master/Apps/クックパッド.md)
+* :dress: [ホットペッパービューティー](https://github.com/mafmoff/100Apps/blob/master/Apps/ホットペッパービューティー.md)
+* 
 
 ## Rules
 
