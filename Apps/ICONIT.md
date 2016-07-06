@@ -9,6 +9,7 @@
 
 ### UI / UX  
 * [入力画面にはPushで遷移する](#iconit_input)
+* [登録ボタンは最下部配置](#iconit_submitButton)
 * [アイコン帳](#iconit_icons)
 * [設定画面](#iconit_setting)
 * [オフライン時のアイコン帳](#iconit_offline)
@@ -16,9 +17,16 @@
 
 #### :triangular_flag_on_post: <a name="iconit_input">入力画面にはPushで遷移する</a>
 入力画面に別途遷移する理由が気になりました   
-検索も同じ動きをしているようです
+検索も同じ動きのようです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iconit_input.gif" width="320px">
+
+
+#### :triangular_flag_on_post: <a name="iconit_submitButton">登録ボタンは最下部配置</a>
+入力後の登録ボタンはScrollView上に配置しない方が良いかもしれないと思われました
+任意入力項目が画面下部にある場合、画面下部に常に固定（フローティング）されている方が押しやすいかもしれません
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iconit_submitButton.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="iconit_icons">アイコン帳</a>
 長押しで選択削除、移動可能モードに切り替わりました
