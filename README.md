@@ -16,7 +16,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :sushi: [スシロー] (https://github.com/mafmoff/100Apps/blob/master/Apps/スシロー.md)
 * :egg: [クックパッド](https://github.com/mafmoff/100Apps/blob/master/Apps/クックパッド.md)
 * :dress: [ホットペッパービューティー](https://github.com/mafmoff/100Apps/blob/master/Apps/ホットペッパービューティー.md)
-* 
+* :headphones: [AWA](https://github.com/mafmoff/100Apps/blob/master/Apps/AWA.md)
 
 ## Rules
 
