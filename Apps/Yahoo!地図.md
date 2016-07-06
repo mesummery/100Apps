@@ -7,7 +7,8 @@
 地図の閲覧、ルート検索
 
 ### UI / UX  
-* [Link](#name)
+* [サイドドロワーメニューはやたら長い](#yahoomap_menu)
+* [設定画面からはアプリのUIの配置設定をできる](#yahoomap_setting)
 
 #### :triangular_flag_on_post: <a name="name">Link</a>
 text  
