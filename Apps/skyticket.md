@@ -39,3 +39,7 @@ AppStoreアプリのようにどのタブからでもアプリインストール
 デフォルトのヘッダーを非表示にしている理由が気になりました
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/skyt_navBack.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="skyt_setting">設定画面</a>
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/skyt_setting.jpg" width="320px">
