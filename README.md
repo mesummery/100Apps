@@ -18,7 +18,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :dress: [ホットペッパービューティー](https://github.com/mafmoff/100Apps/blob/master/Apps/ホットペッパービューティー.md)
 * :headphones: [AWA](https://github.com/mafmoff/100Apps/blob/master/Apps/AWA.md)
 * :iphone: [ICONIT](https://github.com/mafmoff/100Apps/blob/master/Apps/ICONIT.md)
-* 
+* :airplane: [skyticket](https://github.com/mafmoff/100Apps/blob/master/Apps/skyticket.md)
 
 ## Rules
 
