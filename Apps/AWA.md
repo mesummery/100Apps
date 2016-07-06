@@ -7,13 +7,14 @@
 ミュージックの検索、再生
 
 ### UI / UX  
-* [START画面が動画でイカしてる](#awa_start)
+* [**START画面が動画**でイカしてる](#awa_start)
 * [「サービスを開始することで利用規約に同意したものとさせていただきます」](#awa_terms)
 * [PageControlのインジケータが左上に配置（でもスワイプ操作はわかる）](#awa_pageControl)
 * [スワイプ時とスクロール時のパララックスが気持ちいい](#awa_parallax)
 * [長押ししたらページ切り替えできました（**たまたま見つけた**）](#awa_page)
 * [アプリ全体で統一された画面遷移演出だが違和感がない](#awa_transition)
 * [ハンバーガーからも最上部スワイプからもメニューができる](#awa_menu)
+* [メニューから切り替えると、それまでの画面遷移はクリアされ、初期状態に戻る様子](#awa_viewClear)
 * [設定画面が凝っている](#awa_setting)
 * [オフライン表示](#awa_offline)
 * **全体的に使っていてテンションが上がる！かっこいい**
@@ -53,6 +54,14 @@ Popで前の画面に移動した時も画像が元に位置に戻るアニメ�
 #### :triangular_flag_on_post: <a name="awa_menu">メニュー表示</a>
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_menu.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="awa_viewClear">メニューから切り替えたら、切り替え元の画面は初期表示化</a>
+> Home画面から詳細 -> メニューで検索に切り替え
+
+このようなフローで操作すると、Home画面で表示していた詳細には戻れなくなりました
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/awa_viewClear.gif" width="320px">
+
 
 #### :triangular_flag_on_post: <a name="awa_setting">設定画面</a>
 設定とはいえ、動きに拘りがある
