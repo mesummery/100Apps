@@ -29,32 +29,32 @@
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_grid.jpg" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_close">商品詳細画面を閉じるときのジェスチャー/a>
+#### :triangular_flag_on_post: <a name="shoplist_close">商品詳細画面を閉じるときのジェスチャー</a>
 画面の最上部でプルを行うと、画面のクローズが行われるようです（**プルクローズと命名したいです**）   
 EdgeSwipeでもクローズできるので、プルクローズが本当に必要な遷移方法なのか、気になりました   
 スクロール最下部で逆方向にプルしてクローズできた方が利便性は高そうな気がしています
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_close.gif" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_filtering">検索タブではスクロールが停止した時だけボタンが表示される/a>
+#### :triangular_flag_on_post: <a name="shoplist_filtering">検索タブではスクロールが停止した時だけボタンが表示される</a>
 必要な時に必要なUIが動的に表示されるので、一覧の閲覧の妨げにならないです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_filtering.gif" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_price">商品詳細の価格表示/a>
+#### :triangular_flag_on_post: <a name="shoplist_price">商品詳細の価格表示</a>
 フッター固定なので見やすいです   
 :tada: TIPS: あと、細かいですがスクロールのIndicatorのoffsetが気になります
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_price.gif" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_setting">設定画面/a>
+#### :triangular_flag_on_post: <a name="shoplist_setting">設定画面</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_setting.jpg" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_webview">ヘルプなどのWebViewの動き/a>
+#### :triangular_flag_on_post: <a name="shoplist_webview">ヘルプなどのWebViewの動き</a>
 WebView内のページはアプリ向けに表示されています（ページ内のヘッダーが非表示になっています）   
 WebView内でページ遷移が起こると、ヘッダー左部分にナビゲーションバック用のボタンが表示されました
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_webview.gif" width="320px">
 
-#### :triangular_flag_on_post: <a name="shoplist_offline">オフライン表示/a>
+#### :triangular_flag_on_post: <a name="shoplist_offline">オフライン表示</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_offline.jpg" width="320px">
