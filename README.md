@@ -23,6 +23,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :notes: [MusicShine](https://github.com/mafmoff/100Apps/blob/master/Apps/MusicShine.md) ***// <- Gifを撮影する***
 * :balloon: [楽天市場](https://github.com/mafmoff/100Apps/blob/master/Apps/楽天市場.md)
 * :womans_clothes: [GU](https://github.com/mafmoff/100Apps/blob/master/Apps/GU.md)
+* :high_heel: [SHOPLIST](https://github.com/mafmoff/100Apps/blob/master/Apps/SHOPLIST.md)
 
 ## Rules
 
