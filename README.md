@@ -19,6 +19,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :headphones: [AWA](https://github.com/mafmoff/100Apps/blob/master/Apps/AWA.md)
 * :iphone: [ICONIT](https://github.com/mafmoff/100Apps/blob/master/Apps/ICONIT.md)
 * :airplane: [skyticket](https://github.com/mafmoff/100Apps/blob/master/Apps/skyticket.md)
+* :house_with_garden: [Yahoo!地図](https://github.com/mafmoff/100Apps/blob/master/Apps/Yahoo!地図.md)
 
 ## Rules
 
