@@ -10,6 +10,7 @@
 * [サイドドロワーメニューはやたら長い](#yahoomap_menu)
 * [AppleMapよりもスワイプやピンチの慣性が残りにくい](#yahoomap_inertia)
 * [検索カテゴリは横スクロールで探せる](#yahoomap_searchCategoty)
+* [検索方法の説明](#yahoomap_searchHowTo)
 * [ナビ操作中は、障害になるViewのAlphaを調整](#yahoomap_obstacle)
 * [設定画面からはアプリのUIの配置設定をできる](#yahoomap_setting)
 * [セルの選択カラーがグラデーション統一](#yahoomap_cell)
@@ -40,7 +41,12 @@ Yahoo!地図は、**すーーーーーピタッ**
 マップの操作が開始されると、上に被っているViewの透過度が代わり、マップが見やすくなりました   
 小さい画面の端末でも辛くないです
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_obstacle.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_searchHowTo.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="yahoomap_searchHowTo">検索方法の説明</a>
+背景色が水色なのに気を取られるためか、どの位置の何の機能の説明なのか少しわかりにくいような気もしました   
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_searchHowTo.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="yahoomap_setting">設定画面</a>
 UI配置をカスタマイズできるようです   
