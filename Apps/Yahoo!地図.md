@@ -14,6 +14,7 @@
 * [ナビ操作中は、障害になるViewのAlphaを調整](#yahoomap_obstacle)
 * [設定画面からはアプリのUIの配置設定をできる](#yahoomap_setting)
 * [セルの選択カラーがグラデーション統一](#yahoomap_cell)
+* オフライン時にはダイアログが表示される
 
 #### :triangular_flag_on_post: <a name="yahoomap_menu">サイドドロワーメニュー</a>
 詰め込んでいる感じはあります   
