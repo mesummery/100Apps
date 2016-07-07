@@ -26,7 +26,7 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/gu_howto.jpg" width="320px">
 
 #### :triangular_flag_on_post: <a name="gu_member">シンプルな会員証画面</a>
-バーコードが複雑ではないので、Portrailの横配置で読み取れるみたいです
+バーコードが複雑ではないので、Portraitの横配置で読み取れるみたいです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/gu_member.jpg" width="320px">
 
