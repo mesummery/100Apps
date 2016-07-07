@@ -41,7 +41,7 @@ Yahoo!地図は、**すーーーーーピタッ**
 マップの操作が開始されると、上に被っているViewの透過度が代わり、マップが見やすくなりました   
 小さい画面の端末でも辛くないです
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_searchHowTo.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_obstacle.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="yahoomap_searchHowTo">検索方法の説明</a>
 背景色が水色なのに気を取られるためか、どの位置の何の機能の説明なのか少しわかりにくいような気もしました   
@@ -52,7 +52,7 @@ Yahoo!地図は、**すーーーーーピタッ**
 UI配置をカスタマイズできるようです   
 アイコンがあると、どのUIに対する操作かわかりやすいかもしれません
 
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_setting.gif" width="320px">
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/yahoomap_setting.jpg" width="320px">
 
 
 #### :triangular_flag_on_post: <a name="yahoomap_cell">セルの選択カラーがグラデーション</a>
