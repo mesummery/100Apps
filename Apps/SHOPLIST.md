@@ -14,6 +14,9 @@
 * [商品詳細はプルのジェスチャーで閉じられる](#shoplist_close)
 * [検索タブではスクロールが停止した時だけボタンが表示される](#shoplist_filtering)
 * [価格がフローティングしていて見やすい](#shoplist_price)
+* [設定画面](#shoplist_setting)
+* [ヘルプなどのWebViewの動き](#shoplist_webview)
+* [オフライン表示はリロードボタン付きダイアログ](#shoplist_offline)
 
 #### :triangular_flag_on_post: <a name="shoplist_scroll">スクロールでヘッダーバーとソートボタンが非表示</a>
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_scroll.gif" width="320px">
@@ -43,3 +46,15 @@ EdgeSwipeでもクローズできるので、プルクローズが本当に必�
 :tada: TIPS: あと、細かいですがスクロールのIndicatorのoffsetが気になります
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_price.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="shoplist_setting">設定画面/a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_setting.jpg" width="320px">
+
+#### :triangular_flag_on_post: <a name="shoplist_webview">ヘルプなどのWebViewの動き/a>
+WebView内のページはアプリ向けに表示されています（ページ内のヘッダーが非表示になっています）   
+WebView内でページ遷移が起こると、ヘッダー左部分にナビゲーションバック用のボタンが表示されました
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_webview.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="shoplist_offline">オフライン表示/a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/shoplist_offline.jpg" width="320px">
