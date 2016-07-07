@@ -1,4 +1,4 @@
-# 😊 App Name
+# :womans_clothes: GU
 
 * OS 9.2.1 / App 5.0.2
 * iPhone6
