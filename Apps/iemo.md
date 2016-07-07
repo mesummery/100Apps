@@ -16,16 +16,16 @@
 * [設定画面はなく、AlertController表示](#iemo_setting)
 * [オフライン表示はトースト](#iemo_offline)
 
+#### :triangular_flag_on_post: <a name="iemo_tutorial">チュートリアルに動画</a>
+動く！
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iemo_tutorial.gif" width="320px">
+
 #### :triangular_flag_on_post: <a name="iemo_tabs">fontサイズが変わる</a>
 タブタイトルの下にラインが移動していくだけの演出はよく見る気がします   
 さりげなくfontサイズが変わるのでかわいいです
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iemo_tabs.gif" width="320px">
-
-#### :triangular_flag_on_post: <a name="iemo_tutorial">チュートリアルに動画</a>
-動く！
-
-<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/iemo_tutorial.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="iemo_bar">一覧スクロール時に隠れるのはヘッダーバー</a>
 
