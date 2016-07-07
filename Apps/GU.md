@@ -1,18 +1,18 @@
 # :womans_clothes: GU
 
-* OS 9.2.1 / App 5.0.2
+* OS 9.2.1 / App 4.0.3
 * iPhone6
 
 ### Purpose
-text
+会員証、最新情報の配信、店舗検索
 
 ### UI / UX  
+* タブのトップ階層以降はWebView画面が表示される
 * [チュートリアルは定番のページング](#gu_tutorial)
 * [HowTo画面](#gu_howto)
 * [シンプルな会員証画面](#gu_member)
 * [マージンが見えづらく、Cellがぎっしり配置されている印象](#gu_cell)
 * [トップ画面のCellタップでWebView画面が表示される](#gu_top)
-* タブのトップ階層以降はWebView画面が表示される
 * [メニュー画面は珍しいグリッド配置](#gu_menu)
 * [トップタブのオフライン表示にメッセージの表示はなし](#gu_offline)
 
