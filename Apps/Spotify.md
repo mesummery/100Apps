@@ -23,3 +23,7 @@
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/spotify_register.gif" width="320px">
 
+#### :triangular_flag_on_post: <a name="spotify_login">ログインできない</a>
+**コンテンツが見られないので、また試してみます**
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/spotify_login.gif" width="320px">
