@@ -54,8 +54,8 @@
 #### :triangular_flag_on_post: <a name="stocard_offline">オフラインでも使える</a>
 カード追加の時のカード一覧は、内部で持っているのかキャッシュしているのか気になります   
 
-自分のカード一覧
+##### 自分のカード一覧
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/stocard_offline.jpg" width="320px">
 
-追加するカード一覧
+##### 追加するカード一覧
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/stocard_offlineAdd.jpg" width="320px">
