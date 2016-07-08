@@ -1,7 +1,8 @@
 # :notes: MusicShine
 
 * OS 9.2.1 / App 1.1.5
-* iPhone6
+* iPhone6   
+
 :tada: TIPS: 評価が高い（★4.5 / 18,582ダウンロード）
 
 ### Purpose
