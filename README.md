@@ -26,6 +26,8 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :high_heel: [SHOPLIST](https://github.com/mafmoff/100Apps/blob/master/Apps/SHOPLIST.md)
 * :house: [iemo](https://github.com/mafmoff/100Apps/blob/master/Apps/iemo.md)
 * :headphones: [Spotify](https://github.com/mafmoff/100Apps/blob/master/Apps/Spotify.md) **// ログインできないのでまた試す**
+
+ 
 ## Rules
 
 * UI/UXを中心に見る
