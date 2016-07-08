@@ -12,6 +12,7 @@
 * [カード画面はセグメント切り替えで詳細表示](#stocard_detail)
 * [編集や追加画面への導線はモーダル画面遷移が目立つ](#stocard_modal)
 * [初期状態の検索バーはTableViewヘッダーに隠れている](#stocard_search)
+* [追加時のトーストカラーがカードのテーマカラーで凝っている](#stocard_toasts)
 * [設定画面](#stocard_setting)
 * [複数のログイン方法は一画面に収まっていました](#stocard_login)
 * [オフライン時でも主要機能は問題なく利用できました](#stocard_offline)
@@ -41,6 +42,10 @@
 検索から詳細画面に遷移した後戻ってくると、検索結果はクリアになっているようです   
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/stocard_search.gif" width="320px">
+
+#### :triangular_flag_on_post: <a name="stocard_toasts">トーストカラーがカードカラーに合わせてある</a>
+
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/stocard_toasts.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="stocard_setting">設定画面</a>
 
