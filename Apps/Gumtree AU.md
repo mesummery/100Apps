@@ -4,7 +4,7 @@
 * iPhone6
 
 ### Purpose
-掲示板閲覧
+掲示板閲覧、投稿
 
 ### UI / UX  
 * [利用規約への動線がAlertController表示](#gumtreeau_term)
