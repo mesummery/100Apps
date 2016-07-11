@@ -16,7 +16,7 @@
 * [リストロード時のplaceohlderの演出](#tripadv_listloading)
 
 #### :triangular_flag_on_post: <a name="tripadv_tutorial">チュートリアル</a>
-初回インストール後初めての起動で表示されるわけではないみたいでした   
+＜と次へボタンが統一されていないことが気になりました（戻る・次へ／＜＞ですと統一されるかと）   
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/tripadv_tutorial.gif" width="320px">
 
