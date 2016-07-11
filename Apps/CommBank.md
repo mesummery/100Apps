@@ -20,7 +20,7 @@
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/commbank_tutorial.gif" width="320px">
 
 #### :triangular_flag_on_post: <a name="commbank_new">口座開設の説明は画面下部に</a>
-**open account**ボタン配置が長い説明表示より上なのは、離脱率を防ぐためでしょうか   
+**Open account**ボタン配置が長い説明表示より上なのは、離脱率を防ぐためでしょうか   
 スクロールしないと読みきれないです   
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/commbank_new.gif" width="320px">
