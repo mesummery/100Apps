@@ -28,6 +28,7 @@ iOSアプリを使ってみて、いい感じのUIとか傾向とかアーカイ
 * :headphones: [Spotify](https://github.com/mafmoff/100Apps/blob/master/Apps/Spotify.md) **// ログインできないのでまた試す**
 * :credit_card: [Stocard](https://github.com/mafmoff/100Apps/blob/master/Apps/Stocard.md)
 * :bank: [CommBank](https://github.com/mafmoff/100Apps/blob/master/Apps/CommBank.md)
+* :coffee: [スタバで呪文](https://github.com/mafmoff/100Apps/blob/master/Apps/スタバで呪文.md)
  
 ## Rules
 
