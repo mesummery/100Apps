@@ -17,7 +17,7 @@
 * [検索実行時のオフライン表示](#realestate_offline)
 
 #### :triangular_flag_on_post: <a name="realestate_search">Searchタブのトップでは、検索カテゴリが選べる</a>
-物件を検索するユーザーに購入・賃貸・売却が入り混じった検索結果は不要というスタンスなのでしょう   
+物件を検索するユーザーに購入・賃貸・売却が入り混じった検索結果は不要というスタンスなのかもしれません  
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/realestate_search.gif" width="320px">
 
