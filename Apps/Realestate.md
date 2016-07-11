@@ -14,6 +14,7 @@
 * [画面下部固定ボタンのアニメーション](#realestate_emailButton)
 * [設定画面](#realestate_setting)
 * [設定画面でのデザイン切り替え](#realestate_settingLayout)
+* [検索実行時のオフライン表示](#realestate_offline)
 
 #### :triangular_flag_on_post: <a name="realestate_search">Searchタブのトップでは、検索カテゴリが選べる</a>
 物件を検索するユーザーに購入・賃貸・売却が入り混じった検索結果は不要というスタンスなのでしょう   
@@ -52,3 +53,5 @@
 
 <img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/realestate_settingLayout.gif" width="320px">
 
+#### :triangular_flag_on_post: <a name="realestate_offline">検索実行時のオフライン表示</a>
+<img src="https://github.com/mafmoff/100Apps/blob/master/Resources/Images/realestate_offline.jpg" width="320px">
