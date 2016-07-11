@@ -2,7 +2,6 @@
 
 * OS 9.2.1 / App 5.7.0
 * iPhone6   
-* Store Australia   
 
 🎉 TIPS: 評価が高い（★4.5 / 1,513ダウンロード）
 
