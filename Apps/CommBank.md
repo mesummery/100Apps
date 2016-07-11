@@ -1,4 +1,4 @@
-# 😊 App Name
+# :bank: CommBank
 
 * OS 9.2.1 / App 3.14.2
 * iPhone6
