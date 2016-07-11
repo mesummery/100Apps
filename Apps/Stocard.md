@@ -2,7 +2,6 @@
 
 * OS 9.2.1 / App 5.4.6
 * iPhone6
-* Store Australia
 
 ### Purpose
 ポイントカードを一括管理
