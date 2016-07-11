@@ -1,7 +1,9 @@
 # :bank: CommBank
 
 * OS 9.2.1 / App 3.14.2
-* iPhone6   
+* iPhone6
+* Store Australia   
+
 🎉 TIPS: 口座開設まで見ました
 
 ### Purpose
